@@ -67,36 +67,42 @@
         {
             id: "dashboard",
             page: "dashboard.html",
+            icon: "",
             name: "Dashboard"
         },
 
         {
             id: "items",
             page: "items.html",
+            icon: "",
             name: "Items"
         },
 
         {
             id: "rooms",
             page: "rooms.html",
+            icon: "",
             name: "Rooms"
         },
 
         {
             id: "inventory",
             page: "inventory.html",
+            icon: "",
             name: "Inventory"
         },
 
         {
             id: "reports",
             page: "reports.html",
+            icon: "",
             name: "Reports"
         },
 
         {
             id: "users",
             page: "users.html",
+            icon: "",
             name: "Users Management"
         }
 
@@ -173,7 +179,7 @@
                 >
 
                     <span class="nav-icon">
-                        🚪
+                        
                     </span>
 
                     <span>
