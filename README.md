@@ -1,7 +1,7 @@
 # Inventory
 Hii ni repositiry kwa ajili ya inventory project
 
-teanm:
+team:
 - Ayman 
 - Husna
 - Hazaam
