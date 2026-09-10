@@ -67,25 +67,25 @@ document.addEventListener("DOMContentLoaded", function () {
 
             actions = `
                 <a href="items.html" class="quick-action">
-                    <span class="quick-icon">📦</span>
+                    <span class="quick-icon"></span>
                     <strong>Manage Items</strong>
                     <small>Add or edit items</small>
                 </a>
 
                 <a href="rooms.html" class="quick-action">
-                    <span class="quick-icon">🏢</span>
+                    <span class="quick-icon"></span>
                     <strong>Manage Rooms</strong>
                     <small>Add or edit rooms</small>
                 </a>
 
                 <a href="inventory.html" class="quick-action">
-                    <span class="quick-icon">📤</span>
+                    <span class="quick-icon"></span>
                     <strong>Manage Inventory</strong>
                     <small>Allocate stock to rooms</small>
                 </a>
 
                 <a href="reports.html" class="quick-action">
-                    <span class="quick-icon">📊</span>
+                    <span class="quick-icon"></span>
                     <strong>View Reports</strong>
                     <small>Check inventory reports</small>
                 </a>
@@ -95,25 +95,25 @@ document.addEventListener("DOMContentLoaded", function () {
 
             actions = `
                 <a href="users.html" class="quick-action">
-                    <span class="quick-icon">👥</span>
+                    <span class="quick-icon"></span>
                     <strong>Manage Users</strong>
                     <small>Create and manage users</small>
                 </a>
 
                 <a href="items.html" class="quick-action">
-                    <span class="quick-icon">📦</span>
+                    <span class="quick-icon"></span>
                     <strong>View Items</strong>
                     <small>Check registered items</small>
                 </a>
 
                 <a href="rooms.html" class="quick-action">
-                    <span class="quick-icon">🏢</span>
+                    <span class="quick-icon"></span>
                     <strong>View Rooms</strong>
                     <small>Check registered rooms</small>
                 </a>
 
                 <a href="reports.html" class="quick-action">
-                    <span class="quick-icon">📊</span>
+                    <span class="quick-icon"></span>
                     <strong>View Reports</strong>
                     <small>Monitor system reports</small>
                 </a>
@@ -123,25 +123,25 @@ document.addEventListener("DOMContentLoaded", function () {
 
             actions = `
                 <a href="items.html" class="quick-action">
-                    <span class="quick-icon">📦</span>
+                    <span class="quick-icon"></span>
                     <strong>View Items</strong>
                     <small>Check registered items</small>
                 </a>
 
                 <a href="rooms.html" class="quick-action">
-                    <span class="quick-icon">🏢</span>
+                    <span class="quick-icon"></span>
                     <strong>View Rooms</strong>
                     <small>Check available rooms</small>
                 </a>
 
                 <a href="inventory.html" class="quick-action">
-                    <span class="quick-icon">📤</span>
+                    <span class="quick-icon"></span>
                     <strong>View Inventory</strong>
                     <small>Monitor stock allocation</small>
                 </a>
 
                 <a href="reports.html" class="quick-action">
-                    <span class="quick-icon">📊</span>
+                    <span class="quick-icon"></span>
                     <strong>View Reports</strong>
                     <small>Check inventory reports</small>
                 </a>
